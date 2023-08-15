@@ -40,14 +40,14 @@ I reached out to Alexis, mentioned the TLRC/CETL discussions and she kindly agre
 
 
 ### 2. TLRC Book Club, paper reading discussion group
-This might be too much additional work on faculty. But perhaps a book one of us already wants to read. Or their could be 
+This might be too much additional work on faculty. But perhaps a book one of us already wants to read. 
     
 ### 3. TLRC campus newsletter collecting links to interesting teaching articles, podcasts
 Maybe send out a monthly or bi-weekly email of a curated list of articles, podcasts TLRC (or members of campus community) find interesting.
 
 ### TLRC Brightspace repository
 - I reached out to the instructional design team, and Michael Thompson has informed me that he can give access to the entire faculty when instructed to do so
-- Perhaps discussion boards to discuss topics related to articles.
+- Perhaps discussion boards to discuss topics related to articles in aforementioned newsletter
 
 
 ### 5. SUNY Old Westbury TLRC webpage
@@ -102,24 +102,28 @@ https://github.com/morey-ow/tlrc23-24/tree/master/New%20Faculty%20Orientation%20
 
 ### Alternative Grading: 
 
-    Grading for Growth https://gradingforgrowth.com/  
+- Grading for Growth https://gradingforgrowth.com/  
     (blog and recent book by math professors at Grand Valley State University)
 
-    Ungrading (recent book edited by Susam Blum) 
+- Ungrading (recent book edited by Susam Blum) 
 
-    Courtney Sobers (chemistry prof. At Rugers-Newark)  
+- Courtney Sobers, chemistry prof. At Rugers-Newark (ungrading in Chemistry)
      https://cjsobers.com/teaching/ 
-     (Ungrading in Chemistry) 
-
+    
+- Emily Pitts Donahoe, associate director at University of Mississippi CETL
+https://emilypittsdonahoe.substack.com/
+    
 ### Open Educational Resources
-    co-host events with OER committee
-    student generated content 
+- co-host events with OER committee (contact Joanne Spoadaro)
 
 ### Teaching students how to learn how to learn
-    potential speaker: Jennie D’Ambroise and waytosucceed.com 
+- potential speaker: Jennie D’Ambroise and waytosucceed.com 
     From the waytosucceed.com webpage:
     "We offer an easy-to-use mini-course for helping first-year college students LEARN HOW TO LEARN MATH
     and other STEM content. Our minicourse is all about learning, so it can be used with any course, from remedial math to calculus, from chemistry to physics."
+
+### End of semester/year event
+- 
 
 ### Your suggestions here! :)
 ---
