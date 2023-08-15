@@ -13,23 +13,26 @@
 - Chandra Shehigian 
 - Dana Sinclair
 
-This document serves as an informal and incomplete record of things TLRC should consider this year. I invite anyone to email me at morey@oldwestbury.edu with any topics for TLRC to consider, and when we meet, we can discuss them as needed. 
+This informal and incomplete document lists things TLRC could consider this year. Please email TLRC Chair Yogesh More at morey@oldwestbury.edu with any topics to be added to this document, any comments on anything already here,  (as well as corrections), and when we meet, we can discuss them as needed. 
 ___
 ## Ideas, issues
 
 ### 1. Proposal to Combine TLRC-CETL
 
+See the following page for the Request for Director and Resolution for Director documents by Amy Hsu
+https://github.com/morey-ow/tlrc23-24/tree/master/resolution%20for%20TLRC%20director%20(2023)
+
 History:
 - Idea (source unknown) originates to combine TLRC and CETL
 - Amy Hsu (2022-2023 TLRC Chair) drafts a Senate resolution in January 2023 for combining CETL-TLRC  
 - Jo-Ann Robinson suggests writing a proposal instead of a Senate resolution
-- Proposal does not get written by end of Jun 2023 (reason given by Amy: waiting on template for a proposal from Jo-Ann)
+- Proposal does not get written by end of June 2023 
 - June 2023 Amy Hsu informs us that Provost Dorothy Escribano has some ideas/interest. Amy writes: 
 
 > Dorothy is extremely invested in bringing a Teaching and Learning Center to campus with a director (she suggested that the director should be faculty who is still teaching, perhaps half time?) and a faculty advisory group.  She would like to see regular events coming out of the center with organization of any campus event that has to do with teaching and learning, including a mentoring program and formal orientation for new faculty.  She realizes this transition will take a year or so to happen, but would like to support us in figuring out what is needed to make it happen. 
 >I think this support is exactly what is needed to make the leap to the more permanent structure we were envisioning as we wrote the draft of the letter, then resolution, which was then directed by Jo-Ann Robinson to be written in the form of a proposal (though I would hold off on this step for now as I don't know that it will be necessary). 
 
-I'm meeting with Alexis Clifton, the director of TLC at SUNY Geneseo on Thursday, August 17 to discuss TLC at SUNY Geneseo, as they seem to be quite active TLC: https://www.geneseo.edu/tlc
+Yogesh is meeting with Alexis Clifton, the director of TLC at SUNY Geneseo on Thursday, August 17 on Zoom (all are welcome) to discuss TLC at SUNY Geneseo, as they seem to be quite active TLC: https://www.geneseo.edu/tlc
 
 I reached out to Alexis, mentioned the TLRC/CETL discussions and she kindly agreed to meet, and wrote
 > One resource that I'll recommend is the POD Network https://podnetwork.org/outreach/ . This professional organization offers a huge wealth of resources and interpersonal support for people in our role, both dedicated full-time staff and those who do this work along with faculty responsibilities. Some material is available to nonmembers, such as the Growing a Faculty Resource Center kit at https://podnetwork.org/outreach/ .
@@ -48,21 +51,28 @@ Maybe send out a monthly or bi-weekly email of a curated list of articles, podca
 
 
 ### 5. SUNY Old Westbury TLRC webpage
-    - TLRC webpage at oldwestbury.edu is outdated
-    - CETL webpage is defunct (Access Denied)
-    - 2022-2023 TLRC group created a Brightspace course shell with some content but it is not open to faculty at large
+- TLRC webpage at oldwestbury.edu is outdated
+- CETL webpage is defunct (Access Denied)
+- 2022-2023 TLRC group created a Brightspace course shell with some content but it is not open to faculty at large
 
 ### 6. Grants
     - TLRC can seek grants (presumably for use in future years)
     - Barb suggested UUP Labor Management Grant
 ### 7. Speakers
-    - Invite speakers who have grants to promote social justice mission, e.g. 
-    - Barb has a list of speakers for AI
-### 8. TLRC Faculty Survey
-Survey faculty at the beginning of the year for topics they are interested in hearing about, suggestions for speakers, books to discuss, feelings about a newsletter
+- Invite speakers who have grants to promote social justice mission, e.g. 
+- Barb has a list of speakers for AI
+### 8. TLRC topics Faculty Survey
+- Survey faculty at the beginning of the year for topics they are interested in hearing about, suggestions for speakers, books to discuss, feelings about a newsletter
 
 ___
 ## Topics for events
+
+### New Faculty Orientation
+- Late September?
+- Coordinate with ARPT, UUP?
+- See material from previous years at
+https://github.com/morey-ow/tlrc23-24/tree/master/New%20Faculty%20Orientation%20materials
+
 
 ### AI related topics:
 
