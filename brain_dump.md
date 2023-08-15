@@ -1,17 +1,20 @@
 # TLRC 2023-2024   
 
 ### Membership: 
-- Yogesh More (**Chair**), morey@oldwestbury.edu 
-- Shebuti Rayana (Vice Chair), 
-- Renu Balyan (Secretary)
-- Ed Bever
-- Antonia Digregorio
-- Fernando Espinoza
- - Svetlana Jovic 
-- Cris Notaro
-- Kasia Platt
-- Chandra Shehigian 
-- Dana Sinclair
+*Elected and Appointed Members:*
+- Yogesh More (Chair), SAS
+- Shebuti Rayana (Vice Chair), SAS
+- Renu Balyan (Secretary), SAS
+- Fernando Espinoza, SOE
+ - Svetlana Jovic, SAS
+- Kasia Platt, SOB
+- Dana Sinclair, Library
+
+*Ex Officio (non-voting) members*
+- Ed Bever,  Director of Distance Learning
+- Antonia Digregorio, Director of Library
+- Cris Notaro, Coordinator of CETL
+- Chandra Shehigian, Instructional Designer
 
 This informal and incomplete document lists things TLRC could consider this year. Please email TLRC Chair Yogesh More at morey@oldwestbury.edu with any topics to be added to this document, any comments on anything already here,  (as well as corrections), and when we meet, we can discuss them as needed. 
 ___
