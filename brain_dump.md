@@ -63,7 +63,7 @@ Maybe send out a monthly or bi-weekly email of a curated list of articles, podca
 - Invite speakers who have grants to promote social justice mission, e.g. 
 - Barb has a list of speakers for AI
 ### 8. TLRC topics Faculty Survey
-- Survey faculty at the beginning of the year for topics they are interested in hearing about, suggestions for speakers, books to discuss, feelings about a newsletter
+- Survey faculty at the beginning of the year for topics they are interested in hearing about, suggestions for speakers, books to discuss, feelings about a newsletter, maybe departmental book club
 
 ___
 ## Topics for events
@@ -77,24 +77,24 @@ https://github.com/morey-ow/tlrc23-24/tree/master/New%20Faculty%20Orientation%20
 
 ### AI related topics:
 
-    AI in writing,  potential speaker: Prof. Jessica Williams 
+- AI in writing,  potential speaker: Prof. Jessica Williams 
 
-    AI and plagiarism 
+- AI and plagiarism 
     
-    Generative AI on syllabus
+- Generative AI on syllabus
     https://cetl.olemiss.edu/2023/08/15/policies-and-practices-for-generative-ai-in-fall-courses/
 
-    Responsible AI/Ethics in AI: potential speaker: 
+- Responsible AI/Ethics in AI: potential speaker: 
     Syed Ishtiaque Ahmed from the Department of Computer Science, 
     University of Toronto. 
     https://www.ishtiaque.net/ 
 
-    Problem-centered assignments; 
+- Problem-centered assignments; 
     instruction engineering 
     (a “flipped” way of addressing the AI and academic integrity) 
 
-    Auburn Teaching center:  Teaching with AI course
-    not at the momemnt open to outside faculty, but I can ask about access
+- Auburn Teaching center:  Teaching with AI course
+    not open to faculty outside Auburn/SEC, but I can ask about access
     https://biggio.auburn.edu/programs/professional-development-programs/teaching-with-ai-auburn
 
     https://ocm.auburn.edu/newsroom/news_articles/2023/08/071326-auburn-leading-sec-ai-teaching-consortium.php
@@ -114,7 +114,7 @@ https://github.com/morey-ow/tlrc23-24/tree/master/New%20Faculty%20Orientation%20
 https://emilypittsdonahoe.substack.com/
     
 ### Open Educational Resources
-- co-host events with OER committee (contact Joanne Spoadaro)
+- co-host events with OER committee (contact Joanne Spadaro)
 
 ### Teaching students how to learn how to learn
 - potential speaker: Jennie D’Ambroise and waytosucceed.com 
@@ -123,7 +123,8 @@ https://emilypittsdonahoe.substack.com/
     and other STEM content. Our minicourse is all about learning, so it can be used with any course, from remedial math to calculus, from chemistry to physics."
 
 ### End of semester/year event
-- 
+- Lightning talks
+- Book club presentations
 
 ### Your suggestions here! :)
 ---
