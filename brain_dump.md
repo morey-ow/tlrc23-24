@@ -45,7 +45,7 @@ This might be too much additional work on faculty. But perhaps a book one of us 
 ### 3. TLRC campus newsletter collecting links to interesting teaching articles, podcasts
 Maybe send out a monthly or bi-weekly email of a curated list of articles, podcasts TLRC (or members of campus community) find interesting.
 
-### TLRC Brightspace repository
+### 4. TLRC Brightspace repository
 - I reached out to the instructional design team, and Michael Thompson has informed me that he can give access to the entire faculty when instructed to do so
 - Perhaps discussion boards to discuss topics related to articles in aforementioned newsletter
 
