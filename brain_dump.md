@@ -13,7 +13,7 @@
 - Chandra Shehigian 
 - Dana Sinclair
 
-This document serves as an informal, messy “brain dump” - I invite anyone to email the TLRC Chair with any ideas or issues for TLRC to consider, and when we meet, we can discuss them as needed. 
+This document serves as an informal and incomplete record of things TLRC should consider this year. I invite anyone to email me at morey@oldwestbury.edu with any topics for TLRC to consider, and when we meet, we can discuss them as needed. 
 ___
 ## Ideas, issues
 
