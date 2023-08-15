@@ -56,8 +56,9 @@ Maybe send out a monthly or bi-weekly email of a curated list of articles, podca
 - 2022-2023 TLRC group created a Brightspace course shell with some content but it is not open to faculty at large
 
 ### 6. Grants
-    - TLRC can seek grants (presumably for use in future years)
-    - Barb suggested UUP Labor Management Grant
+- TLRC can seek grants (presumably for use in future years)
+- Barb Hillery suggested UUP Labor Management Grant, as Eileen Landy had that years ago to start something similar
+
 ### 7. Speakers
 - Invite speakers who have grants to promote social justice mission, e.g. 
 - Barb has a list of speakers for AI
