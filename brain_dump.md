@@ -139,5 +139,37 @@ SUNY Geneseo
 https://www.geneseo.edu/tlc
 
 ---
+## Appendix: Faculty Bylaws, 2016 (Excerpt)
+Section G: Teaching and Learning Resources Committee 
 
+### 1. Purpose: 
+The Committee shall plan objectives, implement strategies and prioritize resource requests to improve effectiveness and facilitate innovation in faculty teaching to support such activities. The Administration shall provide a reasonable budget for these activities. The activities of the Committee shall include: 
+
+**a) Teaching for Learning Hub:**
+  
+- (1) Assist faculty with problems arising with respect to teaching.  
+- (2) Assist faculty by organizing workshops focusing on issues related to 
+knowledge acquisition and teaching skills for all students.  
+- (3) Promote interdisciplinary exchanges to help understand modes of teaching and research in one field with possible applications in another.  
+- (4) Develop and distribute resources to improve student learning, prepare 
+learning materials and redesign courses and systematic instruction.  
+- (5) Create an effective environment for teaching and learning.  
+- (6) Communicate teaching methods, innovative pedagogical practice, and relevant issues to the College as a whole.  
+- (7) Connect faculty with available campus services. 
+
+**b) Library**
+ 
+- (1) Provide advice and counsel to the Library Director with respect to the following:  
+    - (a) general policy on budget priorities for academic services, 
+    - (b) encouraging liaison with Departments, and  
+    - (c) informing the Faculty and students about developments in the Library.  
+- (2) Communicate the needs and views of the Faculty and students to the Director of the Library.  
+
+**c) Instructional (Academic) technologies:**
+ 
+- (1) Facilitate faculty understanding and utilization of informational 
+technologies. 
+- (2) Provide faculty with a forum to discuss and disseminate instructional and informational technologies. 
+- (3) Participate in prioritizing and allocating resource for faculty informational and instructional technology needs, such as providing input to the  appropriate entities and the Chief Information Officer (CIO) regarding allocation of relevant funds. 
+---
 Questions? Comments? We'd love to hear from you. Please email TLRC Chair Yogesh More at morey@oldwestbury.edu
