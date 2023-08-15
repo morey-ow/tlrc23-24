@@ -29,12 +29,23 @@ History:
 > Dorothy is extremely invested in bringing a Teaching and Learning Center to campus with a director (she suggested that the director should be faculty who is still teaching, perhaps half time?) and a faculty advisory group.  She would like to see regular events coming out of the center with organization of any campus event that has to do with teaching and learning, including a mentoring program and formal orientation for new faculty.  She realizes this transition will take a year or so to happen, but would like to support us in figuring out what is needed to make it happen. 
 >I think this support is exactly what is needed to make the leap to the more permanent structure we were envisioning as we wrote the draft of the letter, then resolution, which was then directed by Jo-Ann Robinson to be written in the form of a proposal (though I would hold off on this step for now as I don't know that it will be necessary). 
 
+I'm meeting with Alexis Clifton, the director of TLC at SUNY Geneseo on Thursday, August 17 to discuss TLC at SUNY Geneseo, as they seem to be quite active TLC: https://www.geneseo.edu/tlc
+
+I reached out to Alexis, mentioned the TLRC/CETL discussions and she kindly agreed to meet, and wrote
+> One resource that I'll recommend is the POD Network https://podnetwork.org/outreach/ . This professional organization offers a huge wealth of resources and interpersonal support for people in our role, both dedicated full-time staff and those who do this work along with faculty responsibilities. Some material is available to nonmembers, such as the Growing a Faculty Resource Center kit at https://podnetwork.org/outreach/ .
+
+
+
 ### 2. TLRC Book Club, paper reading discussion group
-    This might be too much additional work; ideally a book someone already wants to read, and 
+This might be too much additional work on faculty. But perhaps a book one of us already wants to read. Or their could be 
+    
+### 3. TLRC campus newsletter collecting links to interesting teaching articles, podcasts
+Maybe send out a monthly or bi-weekly email of a curated list of articles, podcasts TLRC (or members of campus community) find interesting.
 
-### 3.
+### TLRC Brightspace repository
+- I reached out to the instructional design team, and Michael Thompson has informed me that he can give access to the entire faculty when instructed to do so
+- Perhaps discussion boards to discuss topics related to articles.
 
-### 4. Monthly or bi-weekly newsletter collecting links to interesting teaching articles, podcasts
 
 ### 5. SUNY Old Westbury TLRC webpage
     - TLRC webpage at oldwestbury.edu is outdated
@@ -48,17 +59,20 @@ History:
     - Invite speakers who have grants to promote social justice mission, e.g. 
     - Barb has a list of speakers for AI
 ### 8. TLRC Faculty Survey
-    Survey faculty for topics they are interested in hearing about, suggestions for speakers, books to discuss, 
+Survey faculty at the beginning of the year for topics they are interested in hearing about, suggestions for speakers, books to discuss, feelings about a newsletter
 
 ___
 ## Topics for events
 
 ### AI related topics:
 
-    AI in writing,  potential speaker: Jessica Williams 
+    AI in writing,  potential speaker: Prof. Jessica Williams 
 
     AI and plagiarism 
     
+    Generative AI on syllabus
+    https://cetl.olemiss.edu/2023/08/15/policies-and-practices-for-generative-ai-in-fall-courses/
+
     Responsible AI/Ethics in AI: potential speaker: 
     Syed Ishtiaque Ahmed from the Department of Computer Science, 
     University of Toronto. 
@@ -67,6 +81,12 @@ ___
     Problem-centered assignments; 
     instruction engineering 
     (a “flipped” way of addressing the AI and academic integrity) 
+
+    Auburn Teaching center:  Teaching with AI course
+    not at the momemnt open to outside faculty, but I can ask about access
+    https://biggio.auburn.edu/programs/professional-development-programs/teaching-with-ai-auburn
+
+    https://ocm.auburn.edu/newsroom/news_articles/2023/08/071326-auburn-leading-sec-ai-teaching-consortium.php
 
 
 ### Alternative Grading: 
@@ -89,3 +109,19 @@ ___
     From the waytosucceed.com webpage:
     "We offer an easy-to-use mini-course for helping first-year college students LEARN HOW TO LEARN MATH
     and other STEM content. Our minicourse is all about learning, so it can be used with any course, from remedial math to calculus, from chemistry to physics."
+
+### Your suggestions here! :)
+---
+## TLRC/CETL at other institutions
+
+University of Mississippi
+https://cetl.olemiss.edu/
+
+Auburn University
+
+SUNY Geneseo
+https://www.geneseo.edu/tlc
+
+---
+
+Questions? Comments? We'd love to hear from you. Please email TLRC Chair Yogesh More at morey@oldwestbury.edu
