@@ -8,7 +8,6 @@
 - Fernando Espinoza, SOE
  - Svetlana Jovic, SAS
 - Kasia Platt, SOB
-- Dana Sinclair, Library
 
 *Ex Officio (non-voting) members*
 - Ed Bever,  Director of Distance Learning
