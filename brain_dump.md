@@ -69,12 +69,22 @@ Maybe send out a monthly or bi-weekly email of a curated list of articles, podca
 - Survey faculty at the beginning of the year for topics they are interested in hearing about, suggestions for speakers, books to discuss, feelings about a newsletter, maybe departmental book club
 
 ___
+## Events
+
+
+According to the TLRC Annual Planning Calendar (pre-2020):
+- Select possible dates for fall events and reserve Red Room as early as possible.  
+- We typically schedule events in Weeks 5, 8, and 11.  
+- In the fall we sometimes schedule a “New & Newish Faculty Check-In and Grading Party” during Week 16 (finals week).  
+- We typically reserve two dates for each event – a Tuesday/Thursday and a Monday/Wednesday (although typically not Mondays).  Once the committee meets in September to set the schedule and speakers are lined up, we cancel the backup dates by emailing Nick.  (This is important: if you don’t cancel, no one else can use those dates.)  
+___
 ## Topics for events
 
 ### New Faculty Orientation
 - Late September?
-- Is this still necessary given New Faculty Orientation held Aug 15
-
+- Flyer from 2019 event is [here](https://github.com/morey-ow/tlrc23-24/blob/master/Pre%202020-21%20Records/Flyers/2019NFOFlyer.png)
+- Kyle Anderson tells me that the Sept 22 full faculty meeting will be remote
+- Invite Deans, Instructional designers to give talks
 
 ### AI related topics:
 
