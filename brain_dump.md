@@ -73,9 +73,7 @@ ___
 
 ### New Faculty Orientation
 - Late September?
-- Coordinate with ARPT, UUP?
-- See material from previous years at
-https://github.com/morey-ow/tlrc23-24/tree/master/New%20Faculty%20Orientation%20materials
+- Is this still necessary given New Faculty Orientation held Aug 15
 
 
 ### AI related topics:
@@ -124,6 +122,11 @@ https://emilypittsdonahoe.substack.com/
     From the waytosucceed.com webpage:
     "We offer an easy-to-use mini-course for helping first-year college students LEARN HOW TO LEARN MATH
     and other STEM content. Our minicourse is all about learning, so it can be used with any course, from remedial math to calculus, from chemistry to physics."
+
+
+### February
+- Getting to Tenure and Beyond
+- joint with ARPT, UUP
 
 ### End of semester/year event
 - Lightning talks
