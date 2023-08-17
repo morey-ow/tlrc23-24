@@ -45,11 +45,13 @@ I reached out to Alexis, mentioned the TLRC/CETL discussions and she kindly agre
 This might be too much additional work on faculty. But perhaps a book one of us already wants to read. 
     
 ### 3. TLRC campus newsletter collecting links to interesting teaching articles, podcasts
-Maybe send out a monthly or bi-weekly email of a curated list of articles, podcasts TLRC (or members of campus community) find interesting.
+- Send out a monthly or bi-weekly email of a curated list of articles, podcasts TLRC (or members of campus community) find interesting.
+- This might provide a low-cost/resource way of promoting a community of engagement around teaching and learning, while also allowing faculty a low barrier of entry to engage 
 
 ### 4. TLRC Brightspace repository
 - I reached out to the instructional design team, and Michael Thompson has informed me that he can give access to the entire faculty when instructed to do so
-- Perhaps discussion boards to discuss topics related to articles in aforementioned newsletter
+- Perhaps discussion boards to discuss topics related to articles in previously newsletter
+
 
 
 ### 5. SUNY Old Westbury TLRC webpage
