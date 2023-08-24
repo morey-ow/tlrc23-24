@@ -1,0 +1,1 @@
+This directory contains notes, correspondence, etc concerning Auburn 
