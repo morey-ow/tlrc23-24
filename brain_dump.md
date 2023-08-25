@@ -72,6 +72,10 @@ This might be too much additional work on faculty. But perhaps a book one of us 
 ___
 ## Events
 
+**Funding**
+I asked Dorothy Escribano about funding amount (on August 25, 2023). 
+
+(Last year TLRC was budgeted \$1000 from Provost, but used about \$100 for light refreshments. Outside speakers were paid \$250 (and all such sessions were remote) from CETL grant money. In-person sessions had local speakers but were not well attended.)
 
 According to the TLRC Annual Planning Calendar (pre-2020):
 - Select possible dates for fall events and reserve Red Room as early as possible.  
@@ -83,9 +87,10 @@ ___
 
 ### New Faculty Orientation
 - Late September?
+- In person or remote? (Get back to Kyle Anderson about this decision - the Sept 22 full faculty meeting will be remote, but also Strategic Planning Committees are planning to meet, and he could try to make everything in person) 
 - Flyer from 2019 event is [here](https://github.com/morey-ow/tlrc23-24/blob/master/Pre%202020-21%20Records/Flyers/2019NFOFlyer.png)
-- Kyle Anderson tells me that the Sept 22 full faculty meeting will be remote
-- Invite Deans, Instructional designers to give talks
+
+- Invite Deans, Instructional designers to give talks?
 
 ### AI related topics:
 
@@ -106,7 +111,7 @@ ___
     (a “flipped” way of addressing the AI and academic integrity) 
 
 - Auburn Teaching center:  Teaching with AI course
-    not open to faculty outside Auburn/SEC, but I can ask about access
+    not open to faculty outside Auburn/SEC. Renu, Shebuti, and Yogesh met with them. They will offer individual access starting Sept 1, maybe at \$60. They offer institutional access at \$30 per user, min 100 users. Discussion boards have users at other institutions.
     https://biggio.auburn.edu/programs/professional-development-programs/teaching-with-ai-auburn
 
     https://ocm.auburn.edu/newsroom/news_articles/2023/08/071326-auburn-leading-sec-ai-teaching-consortium.php
@@ -127,6 +132,12 @@ https://emilypittsdonahoe.substack.com/
     
 ### Open Educational Resources
 - co-host events with OER committee (contact Joanne Spadaro)
+
+### Playful Pedagogy
+- Amy Hsu brought my attention to this topic; she has put in the Brightspace TLRC module two open books on the topic
+- https://professorsatplay.org/ Here is a quote from the foreword by Peter Gray:
+- >  My primary goal as a professor was to encourage critical thinking. Our testing and grading system has trained students not to think, but to memorize and regurgitate. Critical thinking is play; memorizing and regurgitating are not. Critical thinking is playing with ideas. We turn them upside down to see what happens, contrast them with other ideas to look for consistencies or contradictions, try them out on other people to get their reactions, and so on. Students come into the class believing they don’t have permission to think. They are mere students, so their job is to “learn,” not think, and learning means memorizing and regurgitating. To disrupt this ingrained schoolish habit and encourage thinking I developed what I call the idea approach to organizing a course." - Peter Gray, Professor of Psychology, Boston College in Forbes and Thomas. *Professors at Play Playbook*. Carnegie Mellon Press (2023)
+
 
 ### Teaching students how to learn how to learn
 - potential speaker: Jennie D’Ambroise and waytosucceed.com 
