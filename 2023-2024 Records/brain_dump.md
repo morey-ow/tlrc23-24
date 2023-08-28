@@ -40,6 +40,17 @@ I reached out to Alexis, mentioned the TLRC/CETL discussions and she kindly agre
 > One resource that I'll recommend is the POD Network https://podnetwork.org/outreach/ . This professional organization offers a huge wealth of resources and interpersonal support for people in our role, both dedicated full-time staff and those who do this work along with faculty responsibilities. Some material is available to nonmembers, such as the Growing a Faculty Resource Center kit at https://podnetwork.org/outreach/ .
 
 
+What budget can administration provide?
+
+Here is information Antonio Di Gregorio provided on TLRC Director Salaries:
+
+Each individual school had "director" in its title. I could only locate some of the salaries from the Comprehensive colleges. 
+
+Suny Fredonia and in 2021 had a reported pay of $87,065 (Associate Librarian / tenured)
+Suny Geneseo and in 2021 had a reported pay of $84,288
+Suny Oneonta and in 2021 had a reported pay of $73,594
+Suny Oswego and in 2021 had a reported pay of $122,674 (Professor / tenured)
+Suny Plattsburgh and in 2021 had a reported pay of $79,813 (Professor / tenured)
 
 ### 2. TLRC Book Club, paper reading discussion group
 This might be too much additional work on faculty. But perhaps a book one of us already wants to read. Survey faculty
