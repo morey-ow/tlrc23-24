@@ -42,7 +42,7 @@ https://github.com/morey-ow/tlrc23-24/tree/master/2023-2024%20Records/resolution
 
 https://github.com/morey-ow/tlrc23-24/tree/master/New%20Faculty%20Orientation%20materials
 
-1. Decide on date/modality
+1. Decide on date/modality: Sept 22 in person, pending funding
 2. Find out new faculty and email 'save the date'
 3. Decide who speakers are and invite them
 4. Send out emails to org and solicit any handouts you want to give to new faculty
@@ -63,6 +63,14 @@ Modality:
 Speakers(s):
 
 ### 7. Anything else?
+AI literacy
 
 
 ### 8. Review tasks to do and who is doing them
+
+1. Yogesh: Email Michael Thompson to open Brightspace repo to faculty add Renu to Brightspace repository instructor
+2. Yogesh: Email Dorothy asking for budget for Teaching and Learning Center
+3. Shebuti: Reach out to Auburn and ask about AI course
+4. Svetlana: Brightspace module add section for faculty to share AI syllabi statements 
+5. Renu/Shebuti: Gradually add AI literacy module to Brightspace
+6. 
