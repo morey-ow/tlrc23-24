@@ -22,8 +22,8 @@ ___
 ### 1. Proposal to Combine TLRC-CETL
 
 See the following page for the Request for Director and Resolution for Director documents by Amy Hsu
-https://github.com/morey-ow/tlrc23-24/tree/master/resolution%20for%20TLRC%20director%20(2023)
 
+https://github.com/morey-ow/tlrc23-24/tree/master/2023-2024%20Records/resolution%20for%20TLRC%20director%20(2023)
 History:
 - Idea (source unknown) originates to combine TLRC and CETL
 - Amy Hsu (2022-2023 TLRC Chair) drafts a Senate resolution in January 2023 for combining CETL-TLRC  
@@ -42,7 +42,11 @@ I reached out to Alexis, mentioned the TLRC/CETL discussions and she kindly agre
 
 
 ### 2. TLRC Book Club, paper reading discussion group
-This might be too much additional work on faculty. But perhaps a book one of us already wants to read. 
+This might be too much additional work on faculty. But perhaps a book one of us already wants to read. Survey faculty
+- Deep Work by Cal Newport
+- Grading for Growth by David Clark and Robert Talbot
+-
+
     
 ### 3. TLRC campus newsletter collecting links to interesting teaching articles, podcasts
 - Send out a monthly or bi-weekly email of a curated list of articles, podcasts TLRC (or members of campus community) find interesting.
