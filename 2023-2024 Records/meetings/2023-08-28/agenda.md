@@ -64,6 +64,8 @@ Speakers(s):
 
 ### 7. Anything else?
 AI literacy
+problem based AI
+citing AI
 
 
 ### 8. Review tasks to do and who is doing them
@@ -73,4 +75,4 @@ AI literacy
 3. Shebuti: Reach out to Auburn and ask about AI course
 4. Svetlana: Brightspace module add section for faculty to share AI syllabi statements 
 5. Renu/Shebuti: Gradually add AI literacy module to Brightspace
-6. 
+6. Yogesh: create meeting dates and add to faculty calendar
