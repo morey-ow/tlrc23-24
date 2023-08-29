@@ -60,7 +60,8 @@ Suny Plattsburgh and in 2021 had a reported pay of $79,813 (Professor / tenured)
 This might be too much additional work on faculty. But perhaps a book one of us already wants to read. Survey faculty
 - Deep Work by Cal Newport
 - Grading for Growth by David Clark and Robert Talbot
--
+- Playful Pedagogy
+- Master and his Emissary
 
     
 ### 3. TLRC campus newsletter collecting links to interesting teaching articles, podcasts
@@ -94,18 +95,26 @@ ___
 --- 
 **Budget**
 
+The 2018-2019 budget (provided by Jillian Crocker, thanks Jill!) is here:
+https://github.com/morey-ow/tlrc23-24/blob/master/Pre%202020-21%20Records/2018-2019%20TLRC%20Budget.pdf
+
+
+> The last time I requested a budget it was for f18-s19, and we were allocated 4k (my notes attached; it was nothing especially formal). For me the process usually included my scheduling a meeting with Patrick, talking through our plan for the year, and showing him our proposal (the left side of the sheet for 2018).  Note on this .xls I did make a note that chartwells prices had increased, and since most of our expenditures were food at that time, it would impact future budgets.  (One might assume that honorariums for speakers have also increased a bit, if you’re doing that sort of thing.) The right side of the sheet is what we actually spent/did. 
+
+ 
+
 Amy Hsu's very helpful guidance:
 
-You should ask Dorothy what your budget is.  Last academic year, I was given $1000.  Mary Reilly was able to give me the TLRC account # associated with the money once the provost confirmed a budget.  Then you can choose something from the Chartwells catering menu -https://sunyoldwestbury.catertrax.com 
+> You should ask Dorothy what your budget is.  Last academic year, I was given $1000.  Mary Reilly was able to give me the TLRC account # associated with the money once the provost confirmed a budget.  Then you can choose something from the Chartwells catering menu -https://sunyoldwestbury.catertrax.com 
 I always looked at specials and tried to be reasonable.  It's hard to estimate number of people.  Be sure to keep an attendance sheet at the event, as this will need to be submitted, in addition to an event flyer when you pay the invoice.  The SOE department secretary gave me the following information which was very helpful in paying the bill:
 
-Place order with Chartwells
+>Place order with Chartwells
 1.IMPORTANT: Keep a sign-in sheet for all who attend...They need this as a proof to pay!
 2.After the event, Chartwells will send you an invoice for the order. (not the email that comes after order that is placed...this is a separate invoice that you will print)
 3.Write on the invoice "ok to pay" and sign it. 
 4.Send to Ellen Macconoran in Accounts payable with the budget number printed on the invoice.  They will put it through for you.  
 
-CONTACT
+> CONTACT
 Ellen MacConnoran
 Accounts Payable Supervisor
 Accounts Payable
@@ -119,7 +128,7 @@ E-mail
 macconnorane@oldwestbury.edu
 
 
-(Last year TLRC was budgeted \$1000 from Provost, but used about \$100 for light refreshments. Outside speakers were paid \$250 (and all such sessions were remote) from CETL grant money. In-person sessions had local speakers but were not well attended.)
+(Amy tells me that last year 2022-2023 TLRC was budgeted \$1000 from Provost, but used about \$100 for light refreshments. Outside speakers were paid \$250 (and all such sessions were remote) from CETL grant money. In-person sessions had local speakers but were not well attended.)
 
 According to the TLRC Annual Planning Calendar (pre-2020):
 - Select possible dates for fall events and reserve Red Room as early as possible.  
