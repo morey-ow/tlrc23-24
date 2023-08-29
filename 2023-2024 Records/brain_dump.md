@@ -40,7 +40,9 @@ I reached out to Alexis, mentioned the TLRC/CETL discussions and she kindly agre
 > One resource that I'll recommend is the POD Network https://podnetwork.org/outreach/ . This professional organization offers a huge wealth of resources and interpersonal support for people in our role, both dedicated full-time staff and those who do this work along with faculty responsibilities. Some material is available to nonmembers, such as the Growing a Faculty Resource Center kit at https://podnetwork.org/outreach/ .
 
 
-What budget can administration provide?
+What budget can administration provide? Dorothy's response:
+
+> 
 
 Here is information Antonio Di Gregorio provided on TLRC Director Salaries:
 
@@ -51,6 +53,8 @@ Suny Geneseo and in 2021 had a reported pay of $84,288
 Suny Oneonta and in 2021 had a reported pay of $73,594
 Suny Oswego and in 2021 had a reported pay of $122,674 (Professor / tenured)
 Suny Plattsburgh and in 2021 had a reported pay of $79,813 (Professor / tenured)
+
+
 
 ### 2. TLRC Book Club, paper reading discussion group
 This might be too much additional work on faculty. But perhaps a book one of us already wants to read. Survey faculty
@@ -87,8 +91,33 @@ This might be too much additional work on faculty. But perhaps a book one of us 
 ___
 ## Events
 
-**Funding**
-I asked Dorothy Escribano about funding amount (on August 25, 2023). 
+--- 
+**Budget**
+
+Amy Hsu's very helpful guidance:
+
+You should ask Dorothy what your budget is.  Last academic year, I was given $1000.  Mary Reilly was able to give me the TLRC account # associated with the money once the provost confirmed a budget.  Then you can choose something from the Chartwells catering menu -https://sunyoldwestbury.catertrax.com 
+I always looked at specials and tried to be reasonable.  It's hard to estimate number of people.  Be sure to keep an attendance sheet at the event, as this will need to be submitted, in addition to an event flyer when you pay the invoice.  The SOE department secretary gave me the following information which was very helpful in paying the bill:
+
+Place order with Chartwells
+1.IMPORTANT: Keep a sign-in sheet for all who attend...They need this as a proof to pay!
+2.After the event, Chartwells will send you an invoice for the order. (not the email that comes after order that is placed...this is a separate invoice that you will print)
+3.Write on the invoice "ok to pay" and sign it. 
+4.Send to Ellen Macconoran in Accounts payable with the budget number printed on the invoice.  They will put it through for you.  
+
+CONTACT
+Ellen MacConnoran
+Accounts Payable Supervisor
+Accounts Payable
+Building
+Campus Center
+Room
+H-310
+Phone
+(516)876-3371
+E-mail
+macconnorane@oldwestbury.edu
+
 
 (Last year TLRC was budgeted \$1000 from Provost, but used about \$100 for light refreshments. Outside speakers were paid \$250 (and all such sessions were remote) from CETL grant money. In-person sessions had local speakers but were not well attended.)
 
