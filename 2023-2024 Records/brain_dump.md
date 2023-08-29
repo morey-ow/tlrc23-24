@@ -42,7 +42,9 @@ I reached out to Alexis, mentioned the TLRC/CETL discussions and she kindly agre
 
 What budget can administration provide? Dorothy's response:
 
-> 
+> Please invite me to your next meeting.  I think the resource allocation for the Center for T&L should be discussed after the strategic plan for the Center is drafted.  We will look at your priorities for funding. 
+
+I have some models from other SUNY comprehensive campuses that might be helpful.  I will share them before our meeting. 
 
 Here is information Antonio Di Gregorio provided on TLRC Director Salaries:
 
