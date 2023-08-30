@@ -200,6 +200,10 @@ https://emilypittsdonahoe.substack.com/
     "We offer an easy-to-use mini-course for helping first-year college students LEARN HOW TO LEARN MATH
     and other STEM content. Our minicourse is all about learning, so it can be used with any course, from remedial math to calculus, from chemistry to physics."
 
+### Mindfulness in education
+- potential speaker: Kristen Blinne, SUNY Oneota, who writes in TLRC 2019-2020 Annual Report
+> I collaborated with Dr. Brian Lowe and Dr. Bhar Ramkumar to develop a proposal to create a Mindfulness / Meditation space on campus and offered 7 sound meditation sessions for LEAD credit for the campus community, in addition to an Introduction to Meditation session as part of the Hunt Union Manager’s series. Finally, I was a guest presenter for a SUNY Sail webinar titled, “Mindfulness in Times of Crisis. How Focusing on the Present can Lead to a Better Future,” with Glenn Pichardo and Terry Murray. 
+
 
 ### February
 - Getting to Tenure and Beyond
