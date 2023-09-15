@@ -44,16 +44,20 @@ What budget can administration provide? Dorothy's response:
 
 > Please invite me to your next meeting.  I think the resource allocation for the Center for T&L should be discussed after the strategic plan for the Center is drafted.  We will look at your priorities for funding. 
 
-I have some models from other SUNY comprehensive campuses that might be helpful.  I will share them before our meeting. 
+>I have some models from other SUNY comprehensive campuses that might be helpful.  I will share them before our meeting. 
 
 Here is information Antonio Di Gregorio provided on TLRC Director Salaries:
 
 Each individual school had "director" in its title. I could only locate some of the salaries from the Comprehensive colleges. 
 
 Suny Fredonia and in 2021 had a reported pay of $87,065 (Associate Librarian / tenured)
+
 Suny Geneseo and in 2021 had a reported pay of $84,288
+
 Suny Oneonta and in 2021 had a reported pay of $73,594
+
 Suny Oswego and in 2021 had a reported pay of $122,674 (Professor / tenured)
+
 Suny Plattsburgh and in 2021 had a reported pay of $79,813 (Professor / tenured)
 
 
@@ -71,7 +75,7 @@ This might be too much additional work on faculty. But perhaps a book one of us 
 - This might provide a low-cost/resource way of promoting a community of engagement around teaching and learning, while also allowing faculty a low barrier of entry to engage 
 
 ### 4. TLRC Brightspace repository
-- I reached out to the instructional design team, and Michael Thompson has informed me that he can give access to the entire faculty when instructed to do so
+
 - Perhaps discussion boards to discuss topics related to articles in previously newsletter
 
 
@@ -79,7 +83,7 @@ This might be too much additional work on faculty. But perhaps a book one of us 
 ### 5. SUNY Old Westbury TLRC webpage
 - TLRC webpage at oldwestbury.edu is outdated
 - CETL webpage is defunct (Access Denied)
-- 2022-2023 TLRC group created a Brightspace course shell with some content but it is not open to faculty at large
+
 
 ### 6. Grants
 - TLRC can seek grants (presumably for use in future years)
