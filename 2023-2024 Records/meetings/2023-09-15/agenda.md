@@ -12,8 +12,8 @@
 >Thanks,
 >Barb
 - event on Student Evaluation of Teaching forms?
- 
-- (your suggestions here)
+- Svetlana: Problem based assignments
+- Ed: substantive interaction for online courses (Spring)
 
 ## 2. Teaching and learning center vision
  - see sharepoint link
