@@ -6,7 +6,7 @@
 - Shebuti Rayana (Vice Chair), SAS
 - Renu Balyan (Secretary), SAS
 - Fernando Espinoza, SOE
- - Svetlana Jovic, SAS
+- Svetlana Jovic, SAS
 - Kasia Platt, SOB
 
 *Ex Officio (non-voting) members*
@@ -142,18 +142,27 @@ According to the TLRC Annual Planning Calendar (pre-2020):
 - In the fall we sometimes schedule a “New & Newish Faculty Check-In and Grading Party” during Week 16 (finals week).  
 - We typically reserve two dates for each event – a Tuesday/Thursday and a Monday/Wednesday (although typically not Mondays).  Once the committee meets in September to set the schedule and speakers are lined up, we cancel the backup dates by emailing Nick.  (This is important: if you don’t cancel, no one else can use those dates.)  
 ___
+
+
+## Events
+
+### October 24
+
+Taking as a given that SETs have well-documented intrinsic and structural problems that are difficult if not impossible to eliminate, how should we - individual faculty, departments, ARPT - talk about them, use them, etc.? What is helpful? What is not helpful? How can faculty be "rigorous" and still get "good" evaluations? What are "good" evaluations, or alternatively, what is desirable (from the perspective of departments, ARPT) to see in evaluations?
+
+
+
 ## Topics for events
 
+
 ### New Faculty Orientation
-- Late September?
-- In person or remote? (Get back to Kyle Anderson about this decision - the Sept 22 full faculty meeting will be remote, but also Strategic Planning Committees are planning to meet, and he could try to make everything in person) 
-- Flyer from 2019 event is [here](https://github.com/morey-ow/tlrc23-24/blob/master/Pre%202020-21%20Records/Flyers/2019NFOFlyer.png)
-
-- Invite Deans, Instructional designers to give talks?
-
+- Wednesday November 1: Barb, Jeanne Shimizu (ARPT), Peter Ikeler (UUP, remote)
+- Hybrid
+Flyer from 2019 event is [here](https://github.com/morey-ow/tlrc23-24/blob/master/Pre%202020-21%20Records/Flyers/2019NFOFlyer.png)
+- 
 ### AI related topics:
 
-- AI in writing,  potential speaker: Prof. Jessica Williams 
+- **November 15** AI in writing Prof. Jessica Williams 
 
 - AI and plagiarism 
     
@@ -216,6 +225,13 @@ https://emilypittsdonahoe.substack.com/
 ### End of semester/year event
 - Lightning talks
 - Book club presentations
+
+### Online courses and instructor engagement
+- Ed Bever suggested this topic
+
+### Student panel on how students are using AI
+
+
 
 ### Your suggestions here! :)
 ---

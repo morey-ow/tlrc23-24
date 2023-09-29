@@ -12,7 +12,7 @@
 >Thanks,
 >Barb
 - event on Student Evaluation of Teaching forms?
-- Svetlana: Problem based assignments
+- Svetlana: Problem based assignments: genre
 - Ed: substantive interaction for online courses (Spring)
 
 ## 2. Teaching and learning center vision
