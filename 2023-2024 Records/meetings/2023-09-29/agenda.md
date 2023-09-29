@@ -6,6 +6,7 @@
 
 TLC Vision
 
+https://github.com/morey-ow/tlrc23-24/blob/master/2023-2024%20Records/meetings/2023-09-29/Teaching%20and%20Learning%20Center%20Vision%20-%209-29.pdf
 
 The recent book **Centers for Teaching and Learning : The New Landscape in Higher Education (2023)** by Mary C. Wright is solely about TLCs and provides significant guidance. TLRC requested that our library purchase an ebook version, and it is available to the OW community through the following link 
 
