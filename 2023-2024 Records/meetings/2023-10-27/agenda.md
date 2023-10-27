@@ -21,7 +21,11 @@ scheduled in NAB 2034
 **Description:**
 Are you a new tenure-track assistant professor? Welcome to OW! Join us as Associate Provost Barbara Hillery and faculty from ARPT, TLRC, and UUP (we'll explain what these stand for) provide an introduction to preparing your first reappointment file. While the focus will be to help orient and guide our newest colleagues, all faculty are welcome to come and share their tips for the process.
 
-### 4. Call for interim director of a teaching and learning center
+### 4. Call for interim director of a teaching and learning center 
+
+- role of TLRC, TLRC chair
+
+
 
 ### 5. EC APPC draft on AI and academic integrity
 
@@ -29,8 +33,13 @@ Are you a new tenure-track assistant professor? Welcome to OW! Join us as Associ
 
 Executive Committee "would like to solicit feedback from TLRC regarding the proposed resolution and incorporate possible modifications that would be of interest/concern to TLRC."
 
+### 6. Any recommendations for actionable items on SETs
 
-### 6. Suggestion from Events next semester 
+Notes from Oct 9 SETs event
+
+Midterm evaluations
+
+### 7. Suggestion from Events next semester 
 
 
 Getting to Tenure Workshop, joint with ARPT and UUP
