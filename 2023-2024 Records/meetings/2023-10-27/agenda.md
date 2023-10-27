@@ -6,6 +6,8 @@ Location: Zoom
 
 See documents for the meeting at
 
+https://github.com/morey-ow/tlrc23-24/tree/master/2023-2024%20Records/meetings/2023-10-27
+
 
 # Agenda
 
