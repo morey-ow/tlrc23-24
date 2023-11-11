@@ -34,9 +34,7 @@ Renu: Involve students who can share with faculty how they are using AI
 
 Shebuti: External academia expert for Responsible use of AI 
 
-Cheryl Wilson/ Kyle Anderson: Respecting Religious Differences
-
-- I’m reaching out to offer a topic for consideration for TLRC – culturally-responsive pedagogy, particularly in the area of respect for religious differences.  Some concerns have arisen recently from students, which has prompted me to reach out to see if this might be a welcome topic for our faculty. 
+Kasia: communication with students, best practices for office hours, setting up Discord server (Shebuti)
 
 ### 6. Review tasks to do and who is doing them
 
