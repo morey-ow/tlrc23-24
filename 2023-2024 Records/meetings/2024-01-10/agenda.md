@@ -36,7 +36,8 @@ Location: Zoom
 
 Excerpt from email from Dorothy 10/4/23:
 The **undergraduate** class schedule that goes into effect next spring is as follows:
-Class 
+
+
 8:00 am	9:40 a.m.	 
 
 9:50 a.m.	11:30 a.m.	 
@@ -54,7 +55,7 @@ Class
 8:10 p.m.	9:50 p.m.	 
 
 The **graduate** class schedule that goes into effect next spring is as follows:
-Class Start	Class Finish
+
 
 8:00 am	10:00 a.m.
 
