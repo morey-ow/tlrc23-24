@@ -15,9 +15,11 @@ See documents for the meeting at
 ### 2 Call for interim TLC director
 
 ### 3 Kyle Anderson update on 'respecting religious differences' event request
+We finally got some basic details: 
+Some professor showed an image of the prophet Mohammed, and this offended a student, and the student and professor could not resolve differences, and this issue is now at President's level.
 
 ### 4 Flyer for Dec 6th event by Jessica Williams
-
+Shebuti volunteered. Renu offered funding from NSF Grant.
 
 ### 5. Suggestion from Events next semester 
 
