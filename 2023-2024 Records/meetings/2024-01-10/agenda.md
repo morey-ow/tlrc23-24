@@ -38,37 +38,58 @@ Excerpt from email from Dorothy 10/4/23:
 The **undergraduate** class schedule that goes into effect next spring is as follows:
 Class 
 8:00 am	9:40 a.m.	 
+
 9:50 a.m.	11:30 a.m.	 
+
 11:40 a.m.	1:20 p.m.	 
+
 **1:30 p.m.	2:30 p.m.	Common Hour**
+
 2:40 p.m.	4:20 p.m.	 
+
 4:30 p.m.	6:10 p.m.	 
+
 6:20 p.m.	8:00 p.m.	 
+
 8:10 p.m.	9:50 p.m.	 
 
 The **graduate** class schedule that goes into effect next spring is as follows:
 Class Start	Class Finish
+
 8:00 am	10:00 a.m.
+
 10:40 a.m.	1:10 p.m.
+
 1:20 p.m. 	3:50 p.m. 
+
 4:30 p.m.	7:00 p.m.
+
 5:15 p.m.	7:45 p.m.
+
 5:30 p.m.	8:00 p.m.
+
 6:00 p.m.	8:30 p.m.
+
 7:10 p.m.	9:40 p.m.
+
 7:55 p.m.	10:25 p.m.
+
 8:10 p.m.	10:40 p.m.
 
 **Getting to Tenure Workshop** joint with ARPT and UUP 
+
 Date: TBD
+
 I've reached out to Jeanne Shimuzu and Peter Ikeler. Seemed to be led by UUP. Here is the announcement from the 2017 event
 
 > On Friday, April 7th, **2017** at 10:00 a.m., UUP, ARPT and TLRC will present a workshop for all faculty involved in preparing reappointment, promotion, tenure, and other files. We’ll walk you through the process step by step, show you files, answer questions, and feed you lunch, compliments of UUP! We encourage those of you faced with the daunting task of assembling or updating a file to come with your questions and share experiences with others in the same situation, in addition to learning some of the successful techniques used by your colleagues. You are also welcome to bring your file along for us to take a look at.
 
 **Svetlana: AI and project-based learning**
+
 Date:  
 
 **Ed Bever: Regular and Sustantive Interactions in Distance Classes**
+
 Date:
 - Federal Regulators have been focusing on this in the past few years, and we need to do what we can to make sure our faculty are aware of the issue and running their courses in compliance.  Also, it enhances the educational experience for students in online courses, and one of the remedial measures called for in last year's 5 Year Assessment of the Distance Program was "promoting steps to incorporate course management and teaching practices that heighten ... students’ connections with their instructors." (p. 30) 
 
@@ -76,15 +97,19 @@ https://teaching.washington.edu/course-design/designing-and-refining-hybrid-and-
 
 
 **Shebuti: External academia expert for Responsible use of AI** 
+
 Date:
 
 **Kasia: communication with students, best practices for office hours, setting up Discord server (Shebuti)**
+
 Date:
 
 **Ashlee Lien: "volunteered" to speak on experiences/challenges in grading writing and AI**. Suggestions for other speakers? Maybe reach out to Maria Zulema Cabail, Jeanne Shimizu, Betty Berbari, Danielle Lee who had some thoughtful contributions at our last event.
+
 Date:
 
 **Renu: Involve students who can share with faculty how they are using AI**
+
 Date:
 
 **Carol Quirke: ?**
