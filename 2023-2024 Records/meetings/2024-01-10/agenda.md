@@ -113,7 +113,11 @@ Date:
 
 Date:
 
-**Carol Quirke: ?**
+**Carol Quirke:**
+I was hoping to do something for our graduate students.  My sense is that their research skills, and also analysis skills could be developed more.  Xavier, Caroline and Nicole were in agreement.  But haven't moved past that.
+
+I think it would be of help to those teaching our undergrads as well.
+
 
 
 ### 4. Review tasks to do and who is doing them

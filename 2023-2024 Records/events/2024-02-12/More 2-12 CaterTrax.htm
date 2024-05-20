@@ -1,0 +1,369 @@
+
+<!-- saved from url=(0091)https://sunyoldwestbury.catertrax.com/shopa_formatorderINV.asp?orderid=6974&idfield=orderid -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><script>
+	function ConfirmAdditionalReservationOrders(){
+		var bConfirmation=confirm("Click OK to continue adding catering to this reservation.");
+		if (!bConfirmation){
+			$.get("shop_res_addcatering.asp", { strCommand: "remove"}, 
+				function(data){
+				}
+			);
+			
+		}
+	}
+</script>
+
+<style>
+	@media print
+	{
+		#divFooter{font-size:10pt; font-family:Verdana;display:block;}
+        .DoNotPrintOut {display:none}
+		
+			#divHeader{font-size:10pt; font-family:Verdana;display:block;}
+			#spInvoiceLabel{font:bold 12px Verdana; display: inline-block;}
+			#spInvoiceHeader{font:bold 10px Verdana; width:400px;}
+			#spInvoiceData{font-size: 12px; font-family:Verdana, Arial, Sans-Serif; display: inline-block;}
+		
+	}
+		
+	@media screen 
+	{
+		
+			#divFooter{font-size:10pt; font-family:Verdana;display:none;}
+			#divHeader{font-size:10pt; font-family:Verdana;display:none;}
+			#spInvoiceData{font-size: 11px; font-family:Verdana, Arial, Sans-Serif; display: inline-block;}
+			#spInvoiceLabel{font:bold 11px Verdana; display: inline-block;}
+			#spInvoiceHeader{font:bold 11px Verdana}
+		
+	}
+</style>
+
+	<style type="text/css">
+		.formTable { border-style: none; border-collapse: collapse; }
+		.formTable tr { background-color: #F0F0F0; }
+		.formTable tr td { font-family: Verdana, Arial, Helvetica, Sans-Serif; font-size: 8pt; font-weight: bold; width: 30%; }
+		.formTable tr td + td { width: 70%; }
+		.formTable tr td input[type="text"], .formTable tr td input[type="password"] { width: 95%; }
+		.ui-datepicker {
+			font-size: 10px;
+		}
+		#ui-datepicker-div { display: none; }
+		.ui-datepicker-trigger {
+			position: absolute;
+			top: 2px;
+			margin-left: 8px;
+			cursor: pointer;
+		}
+		.datefield-wrap { position: relative; }
+		.datefield-wrap button { margin-left: 37px; font-size: 12px; width: 65px; height: 24px; padding: 0; }
+		.tableRowFont { font-family: Verdana, Arial, Helvetica, Sans-Serif; font-size: 8pt; font-weight: bold; }
+		.tableRowRequired { background-color: #FFDDDF; }
+
+		.selectSearchType { font-size: 10px; padding: 2px 0; }
+	</style>
+	<!--[if lte IE 9]>
+	<style type="text/css">
+		.ui-datepicker select.ui-datepicker-month,
+		.ui-datepicker select.ui-datepicker-month option {
+			font-size: 9px;
+			width: 50px;
+		}
+		.ui-datepicker select.ui-datepicker-year,
+		.ui-datepicker select.ui-datepicker-year option {
+			font-size: 9px;
+			width: 60px;
+		}
+	</style>
+	<![endif]-->
+
+	<script type="text/javascript">var LangStep4BtnRetry = 'Retry';</script>
+
+	<script type="text/javascript" src="./More 2-12 CaterTrax_files/ajah.js.download"></script>
+	<script type="text/javascript" src="./More 2-12 CaterTrax_files/jquery-safe-loader.js.download"></script>
+	<style>
+		#divErrors{position:fixed; top:10%; left:40%; width:350px; font-size:10pt; font-family:verdana; color:#FF0000; font-weight:bold; 
+		background-color:#FFFFFF; border:solid 2px red; padding:8px 8px 8px 8px; text-align:center;}
+		
+		.spClose{color:#000000; font-family:Verdana; font-weight:bold; border:1px outset #F0F0F0; background:url('catertrax_images/cat_bkg2.jpg'); 
+		 padding:3px 3px; text-align:center; vertical-align:middle; cursor:pointer; clear:both}
+		 
+		#tbContactInfo .leftLoginColumn,
+		#tbEventDetail .leftLoginColumn,
+		#tbDelivery .leftLoginColumn,
+		#tbCustomer .leftLoginColumn, .tbBudget .leftLoginColumn{text-align:right}
+		#tbCustomer .rightLoginColumn, .tbBudget .rightLoginColumn{font-weight:normal}
+		#tbCustomer td, .tbBudget td{border:2px solid #FFFFFF; }
+		.ui_tpicker_time_label,.ui_tpicker_time,.ui_tpicker_hour_label,.ui_tpicker_minute_label{font-size:10pt;}
+		#ui-datepicker-div .ui-timepicker-div{margin:0 auto;}
+		#ui-datepicker-div{width:350px;}
+		.ui_tpicker_hour,.ui_tpicker_minute{margin-left:55px;}
+	</style>
+
+	<!--JQuery time pickers for BoH reservation times-->
+	
+	<!--[if IE]>
+	<style type="text/css">
+		#divBudget .tbBudget {width: 97%}
+	</style>
+	<![endif]-->
+	<link rel="stylesheet" href="./More 2-12 CaterTrax_files/font-awesome.min.css">
+	<style>
+	.deleteTrash{
+		color:#000;
+		font-size:30px;
+	}
+	</style>
+	<link rel="stylesheet" type="text/css" href="./More 2-12 CaterTrax_files/reservationStyle.css">
+	<style type="text/css">
+		table.invoiceSectionHeader { color: #000000 !important; width: 100% !important; border-collapse: collapse !important; border-style: none !important; font-size: 12px !important; }
+		td.invoiceSectionHeaderTDLeft { color: #666666 !important; border-style: none !important; background-color: #CCCCCC !important; padding-left: 2px !important; width: 50% !important; padding-right: 20px !important; background-image: url(Catertrax_Images/prod_tr.gif) !important; background-repeat: no-repeat !important; background-position: top right !important; }
+		td.invoiceSectionHeaderTDRight { border-style: none !important; background-color: #FFFFFF !important; width: 50% !important; }
+		table.invoiceSection, table.adminInvoiceSection { color: #000000 !important; width: 100% !important; border-collapse: collapse !important; border-width: 2px !important; border-style: solid !important; border-color: #CCCCCC !important; }
+		table.invoiceSection td, table.adminInvoiceSection td { border-width: 2px !important; border-style: solid !important; border-color: #CCCCCC !important; background-color: #F0F0F0 !important; }
+		table.invoiceSectionHighlight, table.adminInvoiceSectionHighlight { color: #000000 !important; width: 100% !important; border-collapse: collapse !important; border-width: 2px !important; border-style: solid !important; border-color: #FFFF00 !important }
+		table.invoiceSectionHighlight td, table.adminInvoiceSectionHighlight td { border-width: 2px !important; border-style: solid !important; border-color: #FFFF00 !important; background-color: #F0F0F0 !important; }
+		
+		div.cartContentsDIV table { color: #000000 !important; width: 100% !important; border-collapse: collapse !important; border-width: 2px !important; border-style: solid !important; border-color: #CCCCCC !important; }
+		div.cartContentsDIV td { border-width: 2px !important; border-style: solid !important; border-color: #CCCCCC !important; background-color: #F0F0F0 !important; }
+		div.cartContentsDIV tr.cartContentsHeaderTR td { color: #666666 !important; border-style: none !important; background-color: #CCCCCC !important; padding-left: 1px !important; background-image: none; }
+	</style>
+	
+
+
+<script type="text/javascript">
+   _editor_url = "../htmlarea3/";
+   _editor_lang = "en";
+</script>
+<script type="text/javascript" src="./More 2-12 CaterTrax_files/htmlarea.js.download"></script>
+
+<style type="text/css">
+div.menubar{ 
+color :#000000;
+background-color :#F0F0F0;
+width :100%;
+padding :3px }
+
+a.menu{
+width="100%";
+background :url(catertrax_images/cat_bkg.jpg);
+text-align : center;
+text-valign : middle;
+font-family: Verdana;
+font-style : Bold ;
+font-size : 8pt;
+font-weight :bold;
+color :#000000;
+text-decoration : none;
+padding :1px;
+border-style : outset ;border-color :#F0F0F0 ;border-width : 1 }
+
+a.menu:hover{
+color :#666666;
+background :#FFFFCC;
+border-style :inset ;border-color :#FF0F0F0 ;border-width : 1 }
+
+a.menu1{
+width :100%;
+text-align : center;
+font-family: Arial;
+font-style : Bold ;
+font-size : 8pt;
+font-weight :Bold;
+color :#000000;
+text-decoration : none;
+background-color :000000;
+padding :3px;
+border-style : outset ;border-color :#F0F0F0 ;border-width : 3 }
+
+a.menu1:hover{
+color :#666666;
+background-color :#000000;
+border-style :inset ;border-color :#FF0F0F0 ;border-width : 3 }
+
+.insetborder {border: inset; border-width : 1;}
+
+.title {
+	background: #CCCCCC;
+	color: #ffffff;
+	font-family: Impact;
+	font-style : Bold ;
+	font-size : 12pt;
+	font-weight :normal;
+	padding: 3px 10px;
+	margin-bottom: 10px;
+	border-bottom: 1px solid black;
+	letter-spacing: 2px;
+}
+</style>
+
+</head>
+<body bgcolor="#FFFFFF" leftmargin="10" topmargin="10"><center>
+
+ 
+
+<div class="divInvoice" style="font-family: Verdana, Helvetica, Sans-Serif;padding:5">
+		<table id="invoiceTable" width="95%" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid black; ">
+			<tbody><tr>
+				<td style="text-align: center;">
+					
+						<table width="100%" class="invoiceOrderName outsetborder" border="0" align="center" cellpadding="3" cellspacing="0" bgcolor="#FFFFFF">
+							<tbody><tr>
+								<td align="center" bgcolor="#C7E3F1">
+									<font size="4" face="verdana">
+										Order Name:&nbsp;<b><i>TLRC: AI talk by Renu Balyan</i></b>
+									</font>
+								</td>
+							</tr>
+						</tbody></table>
+						
+						<table width="100%" border="0" align="center" cellpadding="10" cellspacing="1" bgcolor="#FFFFFF">
+							<tbody><tr>
+								<td>
+									<form name="statusform">
+									<table width="100%" height="144" border="0" align="center" cellpadding="5" cellspacing="0" bgcolor="" #ffffff""="">
+										<tbody><tr>
+											<td class="InvoiceLocation" style="padding-left: 10px !important; padding-right: 4px !important; width: 50%; vertical-align: top; text-align: left;">
+												<img src="./More 2-12 CaterTrax_files/chartwellsInvoiceLogo.png" style="float:left;">
+												<div style="font-family: Arial, Helvetica, Sans-Serif; font-size: smaller; font-weight: bold;">Chartwells at SUNY<br> Old Westbury</div>
+												<div style="font-family: Arial, Helvetica, Sans-Serif; font-size: xx-small;">
+													Campus Center 223 Storehill Road,Old Westbury,NY 11568<br>
+													516.876.3357
+												</div>
+											</td>
+					
+										<td class="InvoiceStatus" style="padding-right: 10px !important; padding-left: 4px; width: 50%; vertical-align: top; text-align:right">
+										
+											<div style="font-size: medium;">
+                                                <table style="width:100% !important;" border="0" cellpadding="0" cellspacing="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="customerClassification" style="width:50%; text-align:left;">
+                                                                &nbsp;
+                                                            </td>
+                                                            <td style="width:50%; text-align:right; white-space: nowrap;">
+																INVOICE&nbsp;#6974
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+											
+											<div style="font-size: xx-small; font-weight: bold">
+												Monday, 2/12/2024<br>
+											</div>
+											<div style="font-size: xx-small">Ordered On:&nbsp;1/25/2024</div>
+											
+												<div style="font-size: xx-small">Last Modified:&nbsp;2/9/2024 2:43:00 PM</div>
+											 &nbsp;<img src="./More 2-12 CaterTrax_files/G_peg.gif" border="0" align="absmiddle" alt="Confirmed"><span style="font-family:verdana; font-size:xx-small"><b> Confirmed</b></span>
+										</td>
+									</tr>
+									
+									<tr>
+										<td class="leftInvoiceCol" style="padding-left: 10px !important; padding-right: 4px; width: 50%; vertical-align: top; text-align:left">
+											<div style="margin-top: 8px; width: 100%;"><table class="invoiceSectionHeader"><tbody><tr><td class="invoiceSectionHeaderTDLeft"><span id="spInvoiceHeader">Customer Information</span></td><td class="invoiceSectionHeaderTDRight"></td></tr></tbody></table><table id="invoiceSectionCustomer" class="invoiceSection" onclick="" title=""><tbody><tr><td align="right" style="width: 30%;;"><span id="spInvoiceLabel" class="QA_xcustfirstname_label" style="width: 100%;">First Name:</span></td><td style="width: 70%;" align="left"><span id="spInvoiceData" class="QA_xcustfirstname_value" style="width: 70%;" title="Yogesh">Yogesh</span></td></tr><tr><td align="right" style="width: 30%;;"><span id="spInvoiceLabel" class="QA_xcustlastname_label" style="width: 100%;">Last Name:</span></td><td style="width: 70%;" align="left"><span id="spInvoiceData" class="QA_xcustlastname_value" style="width: 70%;" title="More">More</span></td></tr><tr><td align="right" style="width: 30%;;"><span id="spInvoiceLabel" class="QA_xcustcompany_label" style="width: 100%;">Department:</span></td><td style="width: 70%;" align="left"><span id="spInvoiceData" class="QA_xcustcompany_value" style="width: 70%;" title="Mathematics">Mathematics</span></td></tr><tr><td align="right" style="width: 30%;;"><span id="spInvoiceLabel" class="QA_xcustemail_label" style="width: 100%;">Email:</span></td><td style="width: 70%;" align="left"><span id="spInvoiceData" class="QA_xcustemail_value" style="width: 70%;" title="morey@oldwestbury.edu">morey@oldwestbury.edu</span></td></tr><tr><td align="right" style="width: 30%;;"><span id="spInvoiceLabel" class="QA_xcustphone_label" style="width: 100%;">Phone:</span></td><td style="width: 70%;" align="left"><span id="spInvoiceData" class="QA_xcustphone_value" style="width: 70%;" title="7202841276">7202841276</span></td></tr></tbody></table></div><br><br><div style="width: 100%; margin-top: 8px;"><table class="invoiceSectionHeader"><tbody><tr><td class="invoiceSectionHeaderTDLeft"><span id="spInvoiceHeader">Payment Information</span></td><td class="invoiceSectionHeaderTDRight"></td></tr></tbody></table><table id="invoiceSectionPayment" class="invoiceSection"><tbody><tr><td align="right" style="width: 30%;;"><span id="spInvoiceLabel" class="QA_PaymentType_label" style="width: 100%;">Payment Type :</span></td><td style="width: 70%;" align="left"><span id="spInvoiceData" class="QA_PaymentType_value" style="width: 70%;" title="University Account | 860021">University Account | 860021</span></td></tr><tr><td align="right" style="width: 30%;;"><span id="spInvoiceLabel" class="QA_AcceptPolicy_label" style="width: 100%;">Policy Acceptance:</span></td><td style="width: 70%;" align="left"><span id="spInvoiceData" class="QA_AcceptPolicy_value" style="width: 70%;" title="I Accept | ykm">I Accept | ykm</span></td></tr></tbody></table></div>		
+										</td>										
+										<td class="rightInvoiceCol" style="padding-right: 10px !important; padding-left: 4px; width: 50%; vertical-align: top; text-align:left">
+											<div style="width: 100%;margin-top: 8px;"><table class="invoiceSectionHeader"><tbody><tr><td class="invoiceSectionHeaderTDLeft"><span id="spInvoiceHeader">Delivery  /  Pickup Information</span></td><td class="invoiceSectionHeaderTDRight"></td></tr></tbody></table><table id="invoiceSectionDelivery" class="invoiceSection"><tbody><tr><td align="right" style="width: 30%;;"><span id="spInvoiceLabel" class="QA_Shipmethod_label" style="width: 100%;">Method:</span></td><td style="width: 70%;" align="left"><span id="spInvoiceData" class="QA_Shipmethod_value" style="width: 70%;" title="On Campus Delivery">On Campus Delivery</span></td></tr><tr><td align="right" style="width: 30%;;"><span id="spInvoiceLabel" class="QA_contactname_label" style="width: 100%;">Event Contact:</span></td><td style="width: 70%;" align="left"><span id="spInvoiceData" class="QA_contactname_value" style="width: 70%;" title="Yogesh More">Yogesh More</span></td></tr><tr><td align="right" style="width: 30%;;"><span id="spInvoiceLabel" class="QA_phone_label" style="width: 100%;">Contact Phone:</span></td><td style="width: 70%;" align="left"><span id="spInvoiceData" class="QA_phone_value" style="width: 70%;" title="7202841276">7202841276</span></td></tr><tr><td align="right" style="width: 30%;;"><span id="spInvoiceLabel" class="QA_info1_label" style="width: 100%;">Event Name:</span></td><td style="width: 70%;" align="left"><span id="spInvoiceData" class="QA_info1_value" style="width: 70%;" title="Meeting the Needs of Students with Exceptionalities">Meeting the Needs of Students with Exceptionalities</span></td></tr><tr><td align="right" style="width: 30%;;"><span id="spInvoiceLabel" class="QA_info2_label" style="width: 100%;">Building:</span></td><td style="width: 70%;" align="left"><span id="spInvoiceData" class="QA_info2_value" style="width: 70%;" title="Student Union">Student Union</span></td></tr><tr><td align="right" style="width: 30%;;"><span id="spInvoiceLabel" class="QA_info3_label" style="width: 100%;">Room #/ Name:</span></td><td style="width: 70%;" align="left"><span id="spInvoiceData" class="QA_info3_value" style="width: 70%;" title="Panther&#39;s Pad">Panther's Pad</span></td></tr></tbody></table></div><br><div style="width: 100%; margin-top: 8px;"><table class="invoiceSectionHeader"><tbody><tr><td class="invoiceSectionHeaderTDLeft"><span id="spInvoiceHeader">Event Information</span></td><td class="invoiceSectionHeaderTDRight"></td></tr></tbody></table><table id="invoiceSectionEvent" class="invoiceSection"><tbody><tr><td align="right" style="width: 30%;;"><span id="spInvoiceLabel" class="QA_GuestCount_label" style="width: 100%;">Guest Count:</span></td><td style="width: 70%;" align="left"><span id="spInvoiceData" class="QA_GuestCount_value" style="width: 70%;" title="20">20</span></td></tr><tr><td align="right" style="width: 30%;;"><span id="spInvoiceLabel" class="QA_ShipDate_label" style="width: 100%;">Pick-up/  Delivery Date:</span></td><td style="width: 70%;" align="left"><span id="spInvoiceData" class="QA_ShipDate_value" style="width: 70%;" title="Monday, 2/12/2024">Monday, 2/12/2024</span></td></tr><tr><td align="right" style="width: 30%;;"><span id="spInvoiceLabel" class="QA_shiptime1_label" style="width: 100%;">Set-up Time:</span></td><td style="width: 70%;" align="left"><span id="spInvoiceData" class="QA_shiptime1_value" style="width: 70%;" title="1:00 PM">1:00 PM</span></td></tr><tr><td align="right" style="width: 30%;;"><span id="spInvoiceLabel" class="QA_shiptime2_label" style="width: 100%;">Event Start Time:</span></td><td style="width: 70%;" align="left"><span id="spInvoiceData" class="QA_shiptime2_value" style="width: 70%;" title="1:30 PM">1:30 PM</span></td></tr><tr><td align="right" style="width: 30%;;"><span id="spInvoiceLabel" class="QA_shiptime3_label" style="width: 100%;">Event End Time:</span></td><td style="width: 70%;" align="left"><span id="spInvoiceData" class="QA_shiptime3_value" style="width: 70%;" title="2:30 PM">2:30 PM</span></td></tr><tr><td align="right" style="width: 30%;;"><span id="spInvoiceLabel" class="QA_shiptime4_label" style="width: 100%;">Event Clean-Up Time:</span></td><td style="width: 70%;" align="left"><span id="spInvoiceData" class="QA_shiptime4_value" style="width: 70%;" title="2:45 PM">2:45 PM</span></td></tr></tbody></table></div>
+										</td>
+									</tr>
+
+									
+											
+										
+									<tr>
+										<td style="padding-left: 10px !important; padding-right: 10px !important; text-align: left; vertical-align: top; text-align:left" colspan="2">
+											<br>
+	
+	<table class="invoiceProductGroupHeader" width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor=""><tbody><tr>
+		<td align="left" style="vertical-align: bottom;" nowrap="">
+			<table cellpadding="0" cellspacing="0" border="0"><tbody><tr>
+				<td bgcolor="#CCCCCC" height="10" width="150">
+					<font size="1" face="Verdana" color="#666666"><b>&nbsp;FOOD</b></font>
+				</td>
+				
+					<td width="1" align="right" valign="top" bgcolor="#CCCCCC"><img src="./More 2-12 CaterTrax_files/prod_tr.gif"></td>
+				
+			</tr></tbody></table>
+		</td>
+		<td class="invoiceProductQtyLabel" align="center" style="vertical-align: bottom;" width="74"><font size="1" face="Verdana"><b>
+			Qty.
+		</b></font></td>
+		<td class="invoiceProductPriceLabel" align="center" style="vertical-align: bottom;" width="74"><font size="1" face="Verdana"><b>
+			Price
+		</b></font></td>
+		<td class="invoiceProductExtLabel" align="center" style="vertical-align: bottom;" width="74"><font size="1" face="Verdana"><b>
+			Ext.
+		</b></font></td>
+	</tr></tbody></table>
+<div><table class="invoiceProductRow" width="100%" border="1" '="" cellpadding="2" cellspacing="0" bgcolor="#CCCCCC" bordercolor="#CCCCCC"><tbody><tr><td bgcolor="#F0F0F0" align="left"><div style="background-color: #f0f0f0; border: 1px #F0F0F0; padding: 3px; font-size: 14px; font-family: Verdana; font-weight: bold;">Assorted freshly-baked cookies - per dozen</div></td><td align="center" nowrap="" width="70" bgcolor="#F0F9FF" class="ctx005"><font size="1" face="Verdana"><div class="invoiceMobileQtyLabel" style="display:none;">Qty. </div>3</font></td><td align="center" nowrap="" width="70" bgcolor="#F0F9FF" class="ctx006"><font size="1" face="Verdana"><div class="invoiceMobilePriceLabel" style="display:none;">Price </div>$7.19</font></td><td align="center" nowrap="" width="70" bgcolor="#F0F9FF" class="ctx008"><font size="1" face="Verdana"><div class="invoiceMobileExtLabel" style="display:none;">Ext. </div>$21.57</font></td></tr></tbody></table></div><div><table class="invoiceProductRow" width="100%" border="1" '="" cellpadding="2" cellspacing="0" bgcolor="#CCCCCC" bordercolor="#CCCCCC"><tbody><tr><td bgcolor="#F0F0F0" align="left"><div style="background-color: #f0f0f0; border: 1px #F0F0F0; padding: 3px; font-size: 14px; font-family: Verdana; font-weight: bold;">Fresh whole fruit - per dozen</div></td><td align="center" nowrap="" width="70" bgcolor="#F0F9FF" class="ctx005"><font size="1" face="Verdana"><div class="invoiceMobileQtyLabel" style="display:none;">Qty. </div>2</font></td><td align="center" nowrap="" width="70" bgcolor="#F0F9FF" class="ctx006"><font size="1" face="Verdana"><div class="invoiceMobilePriceLabel" style="display:none;">Price </div>$16.45</font></td><td align="center" nowrap="" width="70" bgcolor="#F0F9FF" class="ctx008"><font size="1" face="Verdana"><div class="invoiceMobileExtLabel" style="display:none;">Ext. </div>$32.90</font></td></tr></tbody></table></div><br>
+	
+	<table class="invoiceProductGroupHeader" width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor=""><tbody><tr>
+		<td align="left" style="vertical-align: bottom;" nowrap="">
+			<table cellpadding="0" cellspacing="0" border="0"><tbody><tr>
+				<td bgcolor="#CCCCCC" height="10" width="150">
+					<font size="1" face="Verdana" color="#666666"><b>&nbsp;BEVERAGE</b></font>
+				</td>
+				
+					<td width="1" align="right" valign="top" bgcolor="#CCCCCC"><img src="./More 2-12 CaterTrax_files/prod_tr.gif"></td>
+				
+			</tr></tbody></table>
+		</td>
+		<td class="invoiceProductQtyLabel" align="center" style="vertical-align: bottom;" width="74"><font size="1" face="Verdana"><b>
+			Qty.
+		</b></font></td>
+		<td class="invoiceProductPriceLabel" align="center" style="vertical-align: bottom;" width="74"><font size="1" face="Verdana"><b>
+			Price
+		</b></font></td>
+		<td class="invoiceProductExtLabel" align="center" style="vertical-align: bottom;" width="74"><font size="1" face="Verdana"><b>
+			Ext.
+		</b></font></td>
+	</tr></tbody></table>
+<div><table class="invoiceProductRow" width="100%" border="1" '="" cellpadding="2" cellspacing="0" bgcolor="#CCCCCC" bordercolor="#CCCCCC"><tbody><tr><td bgcolor="#F0F0F0" align="left"><div style="background-color: #f0f0f0; border: 1px #F0F0F0; padding: 3px; font-size: 14px; font-family: Verdana; font-weight: bold;">Freshly brewed coffee, Decaf coffee, Assortment of Tea's - per 6 oz. serving</div></td><td align="center" nowrap="" width="70" bgcolor="#F0F9FF" class="ctx005"><font size="1" face="Verdana"><div class="invoiceMobileQtyLabel" style="display:none;">Qty. </div>20</font></td><td align="center" nowrap="" width="70" bgcolor="#F0F9FF" class="ctx006"><font size="1" face="Verdana"><div class="invoiceMobilePriceLabel" style="display:none;">Price </div>$1.99</font></td><td align="center" nowrap="" width="70" bgcolor="#F0F9FF" class="ctx008"><font size="1" face="Verdana"><div class="invoiceMobileExtLabel" style="display:none;">Ext. </div>$39.80</font></td></tr></tbody></table></div><font size="1"><br><table class="orderSummary" width="100%" border="1" cellpadding="0" cellspacing="0" bordercolor="#CCCCCC"><tbody><tr><td class="summaryLeft" width="50%" align="center" valign="middle"><table width="100%" cellpadding="2" cellspacing="2" border="0"><tbody><tr>
+		<td class="orderSummaryHeader" colspan="2" "="" align="center" height="30"><font size="1" face="Verdana"><b>Order Summary</b></font></td></tr><tr bgcolor="#F0F0F0">
+		<td align="center"><font size="1" face="Verdana"><b>Food</b></font></td><td align="center"><font size="1" face="Verdana"><b>Beverage</b></font></td></tr><tr bgcolor="#F0F0F0"><td align="center"><font size="1" face="Verdana">$54.47</font></td><td align="center"><font size="1" face="Verdana">$39.80</font></td></tr></tbody></table><font size="1" face="verdana"><p align="left">Any service/staffing/administrative charges above are charges for the
+				--administration of the function and are not purported to be a tip or gratuity and will not be distributed as a tip or gratuity to the employees who provided service to the guests.</p></font>
+	</td><td class="summaryRight" width="50%"><table width="100%" border="0"><tbody><tr><td height="30" colspan="2" align="Center" bgcolor="#F0F9FF" class="ctx001"><font size="1" face="Verdana"><b>Order Totals</b></font>
+	</td></tr><tr><td class="Field3Label" align="right" nowrap="" bgcolor="#F0F0F0" width="60%"><font size="1" face="Verdana"><b>Sub Total</b></font></td><td align="right" nowrap="" bgcolor="#F0F0F0" width="70"><font size="1" face="Verdana">$94.27</font></td></tr><tr><td class="Field3Label" align="right" nowrap="" bgcolor="#F0F0F0" width="60%"><font size="1" face="Verdana"><b>Order Total</b></font></td><td align="right" nowrap="" bgcolor="#F0F0F0" width="70"><font size="1" face="Verdana">$94.27</font></td></tr><tr id="balanceRow"><td align="right" nowrap="" bgcolor="#FFFFCC" width="60%"><font size="1" face="Verdana"><b>Balance Due</b></font></td><td align="right" nowrap="" bgcolor="#FFFFCC" width="70"><font size="1" face="Verdana"><b>$94.27</b></font></td></tr></tbody></table></td></tr></tbody></table>
+										</font></td>
+									</tr>
+									<tr class="invoiceComments">
+										<td style="padding-left: 10px !important; padding-right: 10px !important; padding-top: 10px !important; vertical-align: top;" colspan="2">
+									<div style="margin-top: 8px; width: 100%;"><table class="invoiceSectionHeader"><tbody><tr><td class="invoiceSectionHeaderTDLeft"><span id="spInvoiceHeader">Special Instructions</span></td><td class="invoiceSectionHeaderTDRight"></td></tr></tbody></table><table id="invoiceSectionCustomer" class="invoiceSection" onclick=""></table></div><br>
+											
+										</td>
+									</tr>
+								</tbody></table>
+								</form>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<!-- Legal Disclaimer(s) -->
+			
+			<tr>
+				<td colspan="100%" align="center" style="font-weight:bold; font-size:9pt; padding-bottom:5px; color:#AAAAAA">
+					<div id="divFooter">Invoice #6974</div>
+				</td>
+			</tr>
+			
+		</tbody></table>
+		</div>
+		
+	<script type="text/javascript" src="./More 2-12 CaterTrax_files/detectMobileBrowser.js.download"></script>
+	<script type="text/javascript">
+		try {
+			$(document).ready(function() {
+				$(".adminInvoiceSection").on('mouseover', function() {
+					$(this).toggleClass("invoiceSectionHighlight", true);
+					$(this).toggleClass("invoiceSection", false);
+				});
+				$(".adminInvoiceSection").on('mouseout', function() {
+					$(this).toggleClass("invoiceSectionHighlight", false);
+					$(this).toggleClass("invoiceSection", true);
+				});
+				
+			});
+		} catch (e) {/* jquery isn't loaded */};
+	</script>
+	</center></body></html>
